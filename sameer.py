@@ -1,1 +1,2 @@
 x = 'abcd'
+print(x)
